@@ -1,9 +1,17 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="dark bg-[#07090e]">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Nexus Craft Studio | Next-Generation Digital Experiences</title>
+
+  <!-- Critical Theme Styles (Ensures dark background renders immediately) -->
+  <style>
+    html, body {
+      background-color: #07090e !important;
+      color: #f8fafc !important;
+    }
+  </style>
 
   <!-- Tailwind CSS CDN -->
   <script src="https://cdn.tailwindcss.com"></script>
@@ -52,7 +60,7 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="selection:bg-indigo-500 selection:text-white antialiased">
+<body class="bg-[#07090e] text-[#f8fafc] selection:bg-indigo-500 selection:text-white antialiased">
 
   <!-- Ambient Glowing Backdrop -->
   <div class="ambient-glow-wrapper">
