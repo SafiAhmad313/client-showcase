@@ -1,0 +1,19 @@
+{
+  "name": "client-showcase",
+  "version": "2.0.0",
+  "description": "Interactive Scrollytelling Client Showcase Website with Fullscreen Zoom and Mobile Transformation",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "generate-assets": "node generate-assets.js"
+  },
+  "keywords": [
+    "scrollytelling",
+    "gsap",
+    "scrolltrigger",
+    "fullscreen-zoom",
+    "responsive"
+  ],
+  "author": "Antigravity Pair Programmer",
+  "license": "MIT"
+}
