@@ -7,7 +7,7 @@ An ultra-modern, high-performance scrollytelling web application designed and bu
 ## 🚀 Live Demo
 
 Experience the live interactive website on Vercel:
-👉 **[https://client-showcase-six.vercel.app/](https://client-showcase-six.vercel.app/)**
+👉 **[https://client-showcase-tan.vercel.app/](https://client-showcase-tan.vercel.app/)**
 
 ### Local Preview
 Open `index.html` directly in Chrome, Edge, Safari, or Firefox.
